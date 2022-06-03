@@ -23,5 +23,8 @@ The primary reason is the amount of data we have been accumulating in recent tim
 
 In general old algorithm models deal better with small datasets where deep learning models can deal greatly with large datasets.
 
-###
+### Loss function and Cost Function
+
+* LOSS: measures how good the **predicted values** are in compairson with the **real values** in a single example
+* COST: measures how good the parameters are going within the training set. It is the average of all loss measurements.
 
